@@ -1,0 +1,5 @@
+streamlit>=1.40.0
+groq>=0.13.0
+requests>=2.31.0
+Pillow>=10.0.0
+ 
